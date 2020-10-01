@@ -1,4 +1,5 @@
 # Sark-Machine-Learning
-Machine Learning Using Spark
 
-Spark ML to predict fatality rate of dataset
+
+Manipulation Big Data using Spark to build a machine learning model to predict death due to covid-19. Comparing the different model and feature sets.
+
